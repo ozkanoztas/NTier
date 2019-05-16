@@ -9,3 +9,4 @@ namespace NTier.Core.Entities
 
     }
 }
+*//selam
