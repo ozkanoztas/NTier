@@ -22,8 +22,6 @@ namespace NTier.Core.Entities
         public Guid CreatedBy { get; set; }
 
 
-
-
         public DateTime? ModifiedDate { get; set; }
 
         public string ModifiedComputerName { get; set; }
