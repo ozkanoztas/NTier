@@ -8,8 +8,6 @@ namespace NTier.Core.Enums
 {
     public enum Status
          
-        
-
     {
        none = 0,
        active = 1,
